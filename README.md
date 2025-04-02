@@ -1,10 +1,12 @@
-## Hi there 👋
-
 ## Introduction
-안녕하세요.
+hello 👋
 
 ## Career
-- 대학생
+- Yeungnam University student
+
+## Major
+- **Mathematics Education**
+- Computer Engineering 
 <!--
 **kwonme/kwonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
