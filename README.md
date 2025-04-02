@@ -1,5 +1,5 @@
 ## Introduction
-hello 👋
+hello👋 Welcome to my **GitHub**
 
 ## Career
 - *Yeungnam University student*
