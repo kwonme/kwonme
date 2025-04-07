@@ -7,6 +7,9 @@ hello👋 Welcome to my **GitHub**
 ## Major
 - *Computer Engineering* 
 - *Mathematics Education*
+
+
+[![kwonme's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonme)](https://github.com/kwonme/github-readme-stats)
 <!--
 **kwonme/kwonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
