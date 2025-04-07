@@ -5,8 +5,8 @@ hello👋 Welcome to my **GitHub**
 - *Yeungnam University student*
 
 ## Major
-- *Mathematics Education*
 - *Computer Engineering* 
+- *Mathematics Education*
 <!--
 **kwonme/kwonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
