@@ -8,6 +8,7 @@ hello👋 Welcome to my **GitHub**
 - *Computer Engineering* 
 - *Mathematics Education*
 
+[![kwonme's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonme)](https://github.com/kwonme/github-readme-stats)
 
 
 <!--
