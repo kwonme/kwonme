@@ -1,9 +1,6 @@
 ## Introduction
 hello👋 Welcome to my **GitHub**
 
-## Career
-- *Yeungnam University student*
-
 ## Major
 - *Computer Engineering* 
 - *Mathematics Education*
